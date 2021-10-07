@@ -6,3 +6,5 @@
 
 # javascript
 
+- [var가 사용되지 않는 이유](https://github.com/fox9d/blog-posting/blob/master/javascript/The reason why var is not uesd.md)
+
